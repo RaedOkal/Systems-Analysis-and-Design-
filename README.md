@@ -1,4 +1,4 @@
-# Systems-Analysis-and-Design-
+# System-Analysis-and-Design-
 
 
 At Al-Azhar University, we were tasked with a challenging systems analysis and design project, aimed at enhancing our skills in computer science and information systems. Our team successfully conducted a comprehensive study on the infrastructure of a Gym physical administrative system, including its vast database and various subscriptions.
